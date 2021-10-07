@@ -1,0 +1,64 @@
+{
+    "points": [
+        {
+            "id": 1,
+            "name": "Point 1",
+            "coordinates": [55.725146, 37.646930],
+            "description": "Description 4 point 1"
+        },
+        {
+            "id": 2,
+            "name": "Point 2",
+            "coordinates": [55.897401, 37.430377],
+            "description": "Description 4 point 1"
+        },
+        {
+            "id": 3,
+            "name": "Point 3",
+            "coordinates": [55.680116, 37.151992],
+            "description": "Description 4 point 1"
+        },
+        {
+            "id": 4,
+            "name": "Point 4",
+            "coordinates": [55.626920, 37.473807],
+            "description": "Description 4 point 1"
+        },
+        {
+            "id": 5,
+            "name": "Point 5",
+            "coordinates": [55.626920, 37.473807],
+            "description": "Description 4 point 1"
+        },
+        {
+            "id": 6,
+            "name": "Point 6",
+            "coordinates": [55.443167, 37.767992],
+            "description": "Description 4 point 1"
+        },
+        {
+            "id": 7,
+            "name": "Point 7",
+            "coordinates": [55.683756, 37.898111],
+            "description": "Description 4 point 1"
+        },
+        {
+            "id": 8,
+            "name": "Point 8",
+            "coordinates": [55.860410, 38.441849],
+            "description": "Description 4 point 1"
+        },
+        {
+            "id": 9,
+            "name": "Point 9",
+            "coordinates": [55.804241, 37.938108],
+            "description": "Description 4 point 1"
+        },
+        {
+            "id": 10,
+            "name": "Point 10",
+            "coordinates": [55.917195, 37.736707],
+            "description": "Description 4 point 1"
+        }
+    ]
+}
